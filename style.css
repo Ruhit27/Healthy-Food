@@ -1,0 +1,46 @@
+body{
+    font-family: 'Poppins', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+background-color: white
+    
+}
+.color1{
+    color: rgb(91, 228, 79);
+    font-size: 70px;
+}
+section{
+    display: flex;
+}
+.health{
+    width: auto;
+}
+.health img{
+    width: 500px;
+}
+.color2{
+    color: rgb(99, 70, 70);
+    font-size: 30px;}
+.color3{
+  
+    font-size: 70px;
+    color: rgb(99, 70, 70);
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato,orange);
+    padding: 15px;
+    color: white;
+    font-weight: 700;
+    margin: auto;}
+.about{
+
+        display: inline-flex;
+        background-image: linear-gradient(rgb(226, 205, 205),rgb(202, 50, 23));
+        border-radius: 0%;
+            padding: 0%;}
+      
+
+    
+
+
+
